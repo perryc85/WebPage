@@ -1,0 +1,134 @@
+*{
+	margin: 0px;
+    padding: 0px;
+}
+
+header{
+	background: #B3E8E4;
+	height: 100px;
+}
+
+#name{
+	color: #07F0E0;
+	text-align: left;
+	padding-top: 27px;
+	margin-left: 38%;
+}
+
+#logo img{
+	float: left;
+  	width: 100px;
+  	height: 100px;
+  	background: #555;
+}
+
+#logo1 img{
+	float: right;
+  	width: 100px;
+  	height: 100px;
+  	background: #555;
+}
+
+h1 img{
+	width: 100px;
+	height: 100px;
+}
+
+#canyon{
+	width: 100px;
+	height: 100px;
+	padding-left: 35px;
+	padding-top: 2px;	
+}
+
+#chi{
+	width: 100px;
+	height: 100px;
+	padding-left: 35px;
+	padding-top: 2px;
+}
+
+#hw{
+	width: 100px;
+	height: 100px;
+	padding-left: 35px;
+	padding-top: 2px;
+}
+
+#fear{
+	width: 100px;
+	height: 100px;
+	padding-left: 35px;
+	padding-top: 2px;
+}
+
+#fear1{
+	width: 100px;
+	height: 100px;
+	padding-left: 35px;
+	padding-top: 2px;
+}
+
+#vaca{
+	width: 100px;
+	height: 100px;
+	padding-left: 35px;
+	padding-top: 2px;
+}
+
+#nav {
+	float: left;
+	width: 33%
+}
+
+#main {
+	display: inline-block;
+	width: 33%;
+}
+
+h1{
+	padding-bottom: 3%;
+}
+
+#aside {
+	float: right;
+	width: 33%;	
+}
+
+.hobbies{
+	color: white;
+}
+
+footer{
+	position: fixed;
+   	left: 0;
+   	bottom: 0;
+   	width: 100%;
+   	background-color:#000000;
+   	color: white;
+   	text-align: center;
+   	height: 60px;
+}
+
+#copy{
+	padding-top: 19px;
+}
+
+body{
+	background-color: #07F0E0;
+	color: white;
+}
+
+#list{
+	padding-left: 250px;
+}
+
+a{
+	color: white;
+}
+
+@media (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
